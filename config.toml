@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://sreeanalytics.github.io/example-hugo-site/"
 themesDir = "themes"
 publishDir = "docs"
 title = "My Example Hugo Website"
