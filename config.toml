@@ -1,59 +1,55 @@
-baseurl = "https://sreeanalytics.github.io/example-hugo-site/"
-themesDir = "themes"
-publishDir = "docs"
-title = "My Example Hugo Website"
-theme = "ghostwriter"
-languageCode = "en-us"
-copyright = "My Name"
-disqusShortname = ""
-googleAnalytics = ""
+baseurl                 = "https://sreeanalytics.github.io/example-hugo-site/"
+languageCode            = "en-us"
+title                   = "Sree's Blog"
+theme                   = "hugo-phlat-theme"
+themesDir               = "themes"
+publishDir              = "docs"
 
-[Author]
-    name = "My Name"
-    profile = "https://google.com/+XXX"
+[permalinks]
+    post                = "/:year/:month/:slug/"
+    page                = "/:slug/"
 
-[Taxonomies]
-    tag = "tags"
+[taxonomies]
+    tag                 = "tags"
+    category            = "categories"
 
-[Params]
-    intro = true
-    headline = "Sree's Blog"
-    description = "This is my webiste"
-    github = "https://github.com/XXX"
-    gitlab = "https://gitlab.com/XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
-    gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/XXX"
-    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    email = "XXX@example.com"
-    opengraph = true
-    shareTwitter = true
-    shareFacebook = true
-    shareGooglePlus = true
-    shareLinkedIn = false
-    dateFormat = "Mon, Jan 2, 2006"
-    highlightJsUrl = ""
-    highlightJsLocalUrl = ""
+# The header menu will appear as an inline-list at the top right of the page
+[[menu.header]]
+    name                = "Home"
+    weight              = 1
+    url                 = "/"
 
-[Permalinks]
-    post = "/:year/:month/:day/:filename/"
+[[menu.header]]
+    name                = "About"
+    weight              = 3
+    url                 = "/about/"
 
-[[menu.main]]
-    name = "Blog"
-    url = "/"
-    weight = 1
+# The footer menu will appear as an inline-list at the bottom left of the footer found at the bottom of the screen
+[[menu.footer]]
+    name                = "Privacy Policy"
+    weight              = 1
+    url                 = "/privacy-policy/"
 
-[[menu.main]]
-    name = "Projects"
-    url = "/project/"
-    weight = 2
+[params]
+    keywords            = ["default", "keywords", "if", "no", "front", "matter"]
+    description         = "A description that will appear as a default if front matter does not exist"
+    google_analytics    = "UA-XXXXX-YY"
+    google_adsense      = "ca-pub-XXXXXX"
+    disqus              = "shortname"
+    google_webmaster    = ""
+    bing_webmaster      = ""
+    alexa               = ""
+    favicon             = ""
 
-[[menu.main]]
-    name = "Contact"
-    url = "/page/contact/"
-    weight = 3
-
-[[menu.main]]
-    name = "About"
-    url = "/page/about/"
-    weight = 4
+# Social media icons and links that appear in the footer
+[social]
+    twitter             = "https://www.twitter.com/NAME_HERE"
+    googleplus          = "https://plus.google.com/NAME_HERE"
+    linkedin            = "https://www.linkedin.com/in/NAME_HERE"
+    youtube             = "https://www.youtube.com/users/NAME_HERE"
+    paypal              = "https://paypal.me/NAME_HERE"
+    instagram           = ""
+    reddit              = ""
+    email               = ""
+    pinterest           = ""
+    wordpress           = ""

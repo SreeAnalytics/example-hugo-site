@@ -1,68 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My Example Hugo Website</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content in Tags on My Example Hugo Website</description>
+    <title>Tags on Sree&#39;s Blog</title>
+    <link>https://sreeanalytics.github.io/example-hugo-site/tags/</link>
+    <description>Recent content in Tags on Sree&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>My Name</copyright>
-    <lastBuildDate>Wed, 02 Apr 2014 02:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Mar 2016 18:17:56 -0700</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sreeanalytics.github.io/example-hugo-site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://example.com/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Article</title>
+      <link>https://sreeanalytics.github.io/example-hugo-site/tags/article/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
       
-      <guid>https://example.com/tags/development/</guid>
+      <guid>https://sreeanalytics.github.io/example-hugo-site/tags/article/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://example.com/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Demo</title>
+      <link>https://sreeanalytics.github.io/example-hugo-site/tags/demo/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
       
-      <guid>https://example.com/tags/go/</guid>
+      <guid>https://sreeanalytics.github.io/example-hugo-site/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://example.com/tags/golang/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Example</title>
+      <link>https://sreeanalytics.github.io/example-hugo-site/tags/example/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
       
-      <guid>https://example.com/tags/golang/</guid>
+      <guid>https://sreeanalytics.github.io/example-hugo-site/tags/example/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://example.com/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>First</title>
+      <link>https://sreeanalytics.github.io/example-hugo-site/tags/first/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:52 -0700</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>https://sreeanalytics.github.io/example-hugo-site/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Templates</title>
-      <link>https://example.com/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Post</title>
+      <link>https://sreeanalytics.github.io/example-hugo-site/tags/post/</link>
+      <pubDate>Tue, 15 Mar 2016 18:17:56 -0700</pubDate>
       
-      <guid>https://example.com/tags/templates/</guid>
+      <guid>https://sreeanalytics.github.io/example-hugo-site/tags/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Themes</title>
-      <link>https://example.com/tags/themes/</link>
-      <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
+      <title>Tag1</title>
+      <link>https://sreeanalytics.github.io/example-hugo-site/tags/tag1/</link>
+      <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
       
-      <guid>https://example.com/tags/themes/</guid>
+      <guid>https://sreeanalytics.github.io/example-hugo-site/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag2</title>
+      <link>https://sreeanalytics.github.io/example-hugo-site/tags/tag2/</link>
+      <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
+      
+      <guid>https://sreeanalytics.github.io/example-hugo-site/tags/tag2/</guid>
       <description></description>
     </item>
     

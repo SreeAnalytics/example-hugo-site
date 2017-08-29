@@ -3,108 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/2017/08/29/first-post/</loc>
-    <lastmod>2017-08-29T12:35:14+02:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/privacy-policy/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page/about/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/about/</loc>
+    <lastmod>2016-03-15T18:18:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page/contact/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/2016/03/my-second-post/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/project/my-awesome-project/</loc>
-    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/2016/03/my-first-post/</loc>
+    <lastmod>2016-03-15T18:17:52-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/2014/09/28/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/2014/04/02/goisforlovers/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/2014/04/02/migrate-from-jekyll/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/2014/04/02/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/development/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/tags/article/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/go/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/golang/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/tags/demo/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/tags/example/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2017-08-29T12:35:14+02:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/tags/first/</loc>
+    <lastmod>2016-03-15T18:17:52-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/page/</loc>
-    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/categories/flat/</loc>
+    <lastmod>2016-03-15T18:17:52-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2017-08-29T12:35:14+02:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/categories/hugo/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/project/</loc>
-    <lastmod>2014-11-18T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/page/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/tags/post/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/templates/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/post/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/themes/</loc>
-    <lastmod>2014-04-02T02:13:50+00:00</lastmod>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/tags/tag1/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/tags/tag2/</loc>
+    <lastmod>2016-03-15T18:21:33-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/tags/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sreeanalytics.github.io/example-hugo-site/categories/theme/</loc>
+    <lastmod>2016-03-15T18:17:56-07:00</lastmod>
     <priority>0</priority>
   </url>
   
