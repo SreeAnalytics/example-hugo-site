@@ -1,5 +1,6 @@
 baseurl = "https://example.com/"
 themesDir = "themes"
+publishDir = "docs"
 title = "My Example Hugo Website"
 theme = "ghostwriter"
 languageCode = "en-us"
